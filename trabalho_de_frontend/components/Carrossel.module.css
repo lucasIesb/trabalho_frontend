@@ -1,0 +1,38 @@
+
+
+.Moldura00 {
+    border: 20px solid rgba(17, 55, 99, 1);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-inline: 40%;
+    text-align: center;
+  
+    border-radius: 10px 10px 0px 0px
+}
+
+
+.imagem00 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.nome00 {
+    box-sizing: border-box;
+    background-color: rgba(17, 55, 99, 1);
+    font-size: 20px;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-inline: 40%;
+    height: 60px;
+    
+    border-radius: 0px 0px 10px 10px;
+    top:10%;
+}

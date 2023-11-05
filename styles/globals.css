@@ -1,0 +1,113 @@
+.lista {
+    border: 30px solid rgba(17, 55, 99, 1);
+    background-color: rgb(163, 163, 163);
+    color: rgba(17, 55, 99, 1);
+    margin-inline: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 10px;
+
+
+}
+
+.h3 {
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    margin-inline: 5%;
+    border-radius: 10px;
+
+}
+
+.h2 {
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    margin-inline: 5%;
+    border-radius: 10px;
+}
+
+.h1 {
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    margin-inline: 5%;
+    border-radius: 10px;
+}
+
+.pagina {
+    display: flex;
+
+}
+.partidoTitulo {
+    text-align: center;
+    border: 2px solid rgba(17, 55, 99, 1);
+    background-color: rgba(17, 55, 99, 1);
+    color: aliceblue;
+    border-radius: 10px;
+    margin-inline: -15px;
+}
+
+.deputado {
+    padding-left: 4%;
+}
+
+.despesas {
+    max-height: 7%; /* Defina a altura máxima desejada */
+    overflow-y: auto;
+    padding-inline: 1%;
+    border: 1% solid rgba(17, 55, 99, 1);
+    background-color: rgba(17, 55, 99, 1);
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 30px;
+    margin-left: 350px;
+    max-height: 700px; /* Defina a altura máxima desejada */
+    overflow-y: auto;
+}
+
+
+h3{
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+   padding: 10px;
+}
+
+h2{
+    
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.topico{
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    color: rgba(17, 55, 99, 1);
+    font-size: 20px;
+
+}
+
+.txt{
+    color: rgba(17, 55, 99, 1);
+}
+
+.graficolink{
+    border: 2px solid rgba(17, 55, 99, 1);
+    background-color: rgba(17, 55, 99, 1);
+    text-align: center;
+}
+
+.imagens{
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p2/3238540-formas-de-triangulos-abstratos-cinza-fundo-baixo-poli-texturizado-vetor.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+

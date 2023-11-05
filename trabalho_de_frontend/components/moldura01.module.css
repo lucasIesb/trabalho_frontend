@@ -1,0 +1,30 @@
+.Moldura01 {
+    box-sizing: border-box;
+    background-color: rgba(17, 55, 99, 1);
+    border-radius: 10px;
+    padding: 5%;
+    margin: -5%;
+    margin-top: 1px;
+}
+
+.imagem01 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+
+}
+
+.nome01 {
+    text-align: center;
+    font-size: 150%;
+    padding: 5%;
+    color: aliceblue;
+
+
+}

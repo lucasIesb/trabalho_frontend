@@ -1,0 +1,46 @@
+.box01{
+    
+
+    display: flex;
+    justify-content: center;
+    
+    position: relative;
+    box-sizing: border-box;
+    background-color: rgba(17, 55, 99, 1);
+    border-radius: 10px;
+
+    top: 1px;
+    left: 30%;
+    
+    width: 40%;
+    height: 60px;
+
+    z-index: 1;
+
+}
+
+.box02{
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+
+    height: 20px;
+    width: 100%;
+
+    position: absolute;
+    top: 210px;
+    left: 0%;
+    
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+   
+
+}
+
+.titulo{
+    color: aliceblue;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+
+    position: relative;
+    top: 1px;
+
+
+}

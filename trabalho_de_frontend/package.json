@@ -1,0 +1,22 @@
+{
+  "name": "trabalho_de_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0",
+    "chart": "^0.1.2",
+    "next": "^13.4.4",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "18.2.0",
+    "react-responsive-carousel": "^3.2.23",
+    "reactstrap": "^9.1.10"
+  }
+}

@@ -1,0 +1,85 @@
+
+.cabecalho{
+
+  box-sizing: border-box;
+  background-color: rgba(17, 55, 99, 1);
+  height: 80px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 60px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+.logo01{
+
+  box-sizing: border-box;
+  background-color: rgb(255, 255, 255);
+  height: 100px;
+  width: 170px;
+  position: absolute;
+  left: 60px;
+  top: 50px;
+ 
+}
+
+.logo{
+  box-sizing: border-box;
+  background-color: rgba(17, 55, 99, 1);
+  height: 100px;
+  width: 150px;
+  position: absolute;
+  left: 70px;
+  top: 50px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.logotxt{
+  
+  font-family: sans-serif;
+  
+  
+  color: rgb(255, 255, 255);
+  position: relative;
+  left: 25px;
+  top: 20px;
+  font-size: 45px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+ 
+  
+}
+.links{
+
+  color: rgb(255, 255, 255);
+  position: relative;
+  left: 250px;
+  top: 25px;
+  font-size: 25px;
+  text-decoration: none;
+  margin: 10px;
+  padding: 30px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+
+  transition:  background-color 0.70s ease;
+
+  font-family: sans-serif;
+
+}
+
+.links:hover{
+
+  background-color: rgb(208, 208, 208);
+  border-radius: 10px;
+  color: rgba(17, 55, 99, 1);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+
+
+
+
+
+
